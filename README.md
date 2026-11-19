@@ -1,1 +1,1 @@
-# Avalia-o-Pr-tica-Sistemas-Distribu-dos-P2
+# prova2sistemasdistribuidos
